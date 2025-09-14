@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: (c) 2023-2025 Jeff C. Jensen
+# SPDX-License-Identifier: MIT
+
 import pygame
 
 import math
